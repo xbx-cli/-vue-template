@@ -3,7 +3,6 @@ module.exports = [{
         name: 'private',
         message: 'ths resgistery is private11111?',
     },
-
     {
         type: 'input',
         name: 'description',
